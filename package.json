@@ -16,7 +16,7 @@
     "author": "kal",
     "license": "MIT",
     "dependencies": {
-        "async": "^3.1.0",
+        "async": "^3.2.2",
         "bcrypt-nodejs": "0.0.3",
         "bcryptjs": "^2.4.3",
         "connect-flash": "^0.1.1",
